@@ -1,0 +1,34 @@
+html{
+    background-color:#000000;
+    font-family: 'Alice', serif;
+}
+h1{
+    color:#B8621B;
+    margin-left: 350px;
+}
+h2{
+    color:white;
+}
+img{
+    background-color:#B8621B;
+    padding: 15px;
+}
+li{
+    margin-left: 250px;
+    color:#E3CCAE;
+}
+a[class="Netflix"]{
+    color:crimson;
+    overscroll-behavior-inline:auto;
+}
+a[class="vegamovies"]{
+    color: aqua;
+    overscroll-behavior-inline:auto;
+}
+a[class="prime_video"]{
+    color: cornflowerblue;
+    overscroll-behavior-inline:auto;
+}
+a[class="Sony_liv"]{
+    color: seagreen;
+}
