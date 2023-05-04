@@ -1,0 +1,33 @@
+html{
+    background-color:black;
+}
+h1{
+    color:darkred;
+    margin-left: 300px;
+}
+h2{
+    color: aliceblue;
+}
+img{
+    background-color:gray;
+    padding: 10px;
+}
+li{
+    margin-left: 250px;
+    color:gray;
+}
+a[class="Netflix"]{
+    color:crimson;
+    overscroll-behavior-inline:auto;
+}
+a[class="vegamovies"]{
+    color: aqua;
+    overscroll-behavior-inline:auto;
+}
+a[class="prime_video"]{
+    color: cornflowerblue;
+    overscroll-behavior-inline:auto;
+}
+a[class="Sony_liv"]{
+    color: seagreen;
+}
