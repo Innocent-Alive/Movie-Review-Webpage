@@ -4,7 +4,8 @@ html {
 }
 
 body {
-    background-image: url(./mathias-reding-3P9QzN5uF5Q-unsplash.jpg);
+    background-image: url(./background-image.jpg);
+    border: #E3CCAE;
 }
 
 h1 {
